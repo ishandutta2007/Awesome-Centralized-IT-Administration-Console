@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-IT-Administration-Console?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-IT-Administration-Console?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Centralized-IT-Administration-Console?style=flat-square&color=blue" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License" /></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,48 +60,48 @@ The sector is **moderately fragmented** rather than a winner-take-all monopoly: 
 
 ## 🚀 Open-Source GitHub Projects
 
-Curated self-hosted administrative control planes, open-source ITSM consoles, IT asset management (ITAM) platforms, and CMDB infrastructure. Repositories are ranked by GitHub star count in descending order.
+Curated self-hosted administrative control planes, open-source ITSM consoles, IT asset management (ITAM) platforms, and CMDB infrastructure. Repositories are ranked by GitHub Stars_Count in descending order.
 
-1. **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+1. **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub_Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
    The premier open-source Network Infrastructure Source of Truth (NSoT) and data center infrastructure management (DCIM) console. Unifies IP address management (IPAM), rack units, cables, device inventory, virtualization, and network automation APIs into a centralized administrative plane.
 
-2. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+2. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub_Stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
    Industry-standard open-source IT asset management (ITAM) administrative console built on Laravel. Features centralized administration for hardware inventory, software licenses, component tracking, user check-in/checkout, barcodes/QR codes, SAML/LDAP authentication, and auditable asset lifecycles.
 
-3. **[MeshCentral](https://github.com/Ylianst/MeshCentral)** [![GitHub stars](https://img.shields.io/github/stars/Ylianst/MeshCentral?style=social&color=white)](https://github.com/Ylianst/MeshCentral/stargazers)  
+3. **[MeshCentral](https://github.com/Ylianst/MeshCentral)** [![GitHub_Stars](https://img.shields.io/github/stars/Ylianst/MeshCentral?style=social&color=white)](https://github.com/Ylianst/MeshCentral/stargazers)  
    Complete web-based remote computer and device management web console. Allows system administrators to manage, monitor, and remotely access Windows, Linux, and macOS endpoints behind NATs/firewalls with hardware KVM, terminal access, file transfer, and Intel AMT out-of-band management.
 
-4. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+4. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub_Stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
    Comprehensive open-source IT asset and service management suite with ITIL Service Desk, software auditing, license management, and CMDB impact analysis. Delivers a mature, self-hosted administrative hub covering helpdesk ticketing, contracts, and financial asset management.
 
-5. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+5. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
    Modern web-based open-source customer support and ticketing system with a high-performance administration backend. Provides multi-channel management (email, chat, phone, social), granular role-based permissions, automated SLA rules, audit logging, and integrations with LDAP/Exchange.
 
-6. **[Tactical RMM](https://github.com/amidaware/tacticalrmm)** [![GitHub stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers)  
+6. **[Tactical RMM](https://github.com/amidaware/tacticalrmm)** [![GitHub_Stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers)  
    A remote monitoring and management (RMM) platform designed for MSPs and IT departments. Built with Django and Vue, it provides a centralized administration dashboard for automated script execution, patch management, real-time remote desktop, alerting, and automated client onboarding.
 
-7. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+7. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub_Stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
    Widely deployed open-source support ticket system featuring an administrative control panel for configuring routing rules, ticket assignment filters, department staff permissions, custom forms, and client self-service portals.
 
-8. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+8. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub_Stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
    Clean, modern open-source helpdesk solution built on Node.js and MongoDB. Includes a centralized administration panel for role-based access management, ticket routing workflows, live chat widgets, reports, and REST API configurations.
 
-9. **[ITFlow](https://github.com/itflow-org/itflow)** [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)  
+9. **[ITFlow](https://github.com/itflow-org/itflow)** [![GitHub_Stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)  
    Open-source IT documentation, ticketing, and accounting platform for MSPs and internal IT departments. Provides a unified portal for credential vaults, client asset tracking, billing, vendor agreements, and network documentation.
 
-10. **[Windshift](https://github.com/windshiftapp/core)** [![GitHub stars](https://img.shields.io/github/stars/windshiftapp/core?style=social&color=white)](https://github.com/windshiftapp/core/stargazers)  
+10. **[Windshift](https://github.com/windshiftapp/core)** [![GitHub_Stars](https://img.shields.io/github/stars/windshiftapp/core?style=social&color=white)](https://github.com/windshiftapp/core/stargazers)  
     Self-hosted work management and service management platform (Go binary) featuring Jira-style issue tracking, SLAs, customer portal, knowledge base, custom workflows, permissions, and built-in CMDB asset registers.
 
-11. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
+11. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub_Stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
     Self-hosted ITSM tool suite with customer self-service, task management, asset register with QR tags, checklists/SOPs, AI-assisted knowledge base, change management with CAB voting, and CMDB impact analysis.
 
-12. **[ClientSt0r](https://github.com/agit8or1/clientst0r)** [![GitHub stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers)  
+12. **[ClientSt0r](https://github.com/agit8or1/clientst0r)** [![GitHub_Stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers)  
     Multi-tenant IT documentation and service management console for MSPs featuring client runbooks, encrypted credential vault, native ticketing with SLAs, and Entra ID / LDAP sign-in.
 
-13. **[Atlas CMDB](https://github.com/mojoaar/atlascmdb)** [![GitHub stars](https://img.shields.io/github/stars/mojoaar/atlascmdb?style=social&color=white)](https://github.com/mojoaar/atlascmdb/stargazers)  
+13. **[Atlas CMDB](https://github.com/mojoaar/atlascmdb)** [![GitHub_Stars](https://img.shields.io/github/stars/mojoaar/atlascmdb?style=social&color=white)](https://github.com/mojoaar/atlascmdb/stargazers)  
     Next.js-powered open-source Configuration Management Database (CMDB) console with rack visualization, CI relationship graphs, OIDC SSO, SCIM 2.0 provisioning, TOTP MFA, and audit logging.
 
-14. **[GOTRS Community Edition](https://github.com/gotrs-io/gotrs-ce)** [![GitHub stars](https://img.shields.io/github/stars/gotrs-io/gotrs-ce?style=social&color=white)](https://github.com/gotrs-io/gotrs-ce/stargazers)  
+14. **[GOTRS Community Edition](https://github.com/gotrs-io/gotrs-ce)** [![GitHub_Stars](https://img.shields.io/github/stars/gotrs-io/gotrs-ce?style=social&color=white)](https://github.com/gotrs-io/gotrs-ce/stargazers)  
     Enterprise service desk and ticketing engine (Go-based OTRS reimplementation) designed for air-gapped deployments, custom role hierarchies, REST API connectivity, and high-concurrency ticket management.
 
 ---
@@ -123,7 +123,7 @@ Contributions are welcome! To contribute:
 
 1. 🍴 Fork this repository.
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-console`.
-3. 📝 Add your entry under the corresponding section following the standard format (include links, transparent pricing/free tiers, or repository star badges).
+3. 📝 Add your entry under the corresponding section following the standard format (include links, transparent pricing/free tiers, or repository Stars_Badges).
 4. 🚀 Submit a Pull Request with a clear description of the console and its administrative capabilities.
 
 ---
