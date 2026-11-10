@@ -1,6 +1,6 @@
 # Awesome-Centralized-IT-Administration-Console
 
-# Top Centralized IT Administration Console Ecosystem
+## Top Centralized IT Administration Console Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Unified Service Management, Tenant Administration & Cross-Product Configuration*  
