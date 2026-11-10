@@ -1,33 +1,49 @@
-# Awesome-Centralized-IT-Administration-Console
+# 🛠️ Centralized IT Administration Console & Unified Control Planes
 
-## Top Centralized IT Administration Console Ecosystem
+<div align="center">
+  <img src="assets/banner.svg" alt="Centralized IT Administration Console Ecosystem Banner" width="100%" />
+</div>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Unified Service Management, Tenant Administration & Cross-Product Configuration*  
-**Last updated: March 2026**
+<div align="center">
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Centralized IT Administration Console**. These tools provide a single administrative plane for managing users, roles, security policies, audit logs, and product configurations across IT service management, CRM, and helpdesk platforms—reducing the friction of switching between disconnected admin panels.
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Centralized-IT-Administration-Console?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Centralized-IT-Administration-Console?style=flat-square&color=blue" alt="GitHub Forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Centralized-IT-Administration-Console/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green.svg?style=flat-square" alt="License" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Examples** include Freshworks Neo Admin Center, Zendesk Admin Center, Jira Service Management Project Settings, ServiceNow Admin, Salesforce Setup, HubSpot Settings, Zoho Desk Admin, Ivanti Neurons Configuration Console, Cherwell Administrator, and SysAid Admin (the category leaders).
+</div>
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted IT administration consoles, unified service management platforms, and role-based admin frontends—ideal for IT administrators, platform engineers, and organizations seeking transparent, vendor-neutral control planes without per-seat enterprise pricing.
+<p align="center">
+  <strong>A curated list of top SaaS platforms and open-source GitHub projects for Centralized IT Administration Consoles, Unified Service Management, Remote Monitoring &amp; Management (RMM), ITAM/CMDB, and Identity Control Planes.</strong>
+</p>
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📑 Table of Contents
 
-## Sector Overview & Market Dynamics
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 Enterprise SaaS Platforms](#-enterprise-saas-platforms)
+- [🚀 Open-Source GitHub Projects](#-open-source-github-projects)
+- [💡 Architectural Blueprint & Best Practices](#-architectural-blueprint--best-practices)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚖️ Disclaimer](#️-disclaimer)
 
-The global IT Service Management (ITSM) and centralized IT administration console sector represents an estimated market size of **$14.8 billion to $17.4 billion in 2026**, expanding at a robust Compound Annual Growth Rate (CAGR) of 14.4% to 16.4% as enterprises shift en masse toward cloud-native control planes and agentic workflow orchestration. The sector is **moderately fragmented** rather than a winner-take-all monopoly: enterprise heavyweights (ServiceNow, Salesforce, and Atlassian) command massive footprints in complex cross-departmental operations, while agile mid-market challengers (Freshworks, Zoho, Zendesk, and SysAid) aggressively secure market share by delivering lower total cost of ownership, rapid time-to-value, and streamlined administration consoles.
+---
 
-## SaaS/Hosted Platforms
+## 🌐 Sector Overview & Market Dynamics
 
-| Company Valuation / Revenue | Platform / Admin Console | Starting Pricing | Free Tier / Trial Limits | Key Administrative & Centralized Control Features |
+The global **IT Service Management (ITSM)** and **Centralized IT Administration Console** sector represents an estimated market size of **$14.8 billion to $17.4 billion in 2026**, expanding at a robust Compound Annual Growth Rate (CAGR) of 14.4% to 16.4% as modern enterprise infrastructure shifts toward unified, cloud-native control planes and agentic workflow orchestration. 
+
+The sector is **moderately fragmented** rather than a winner-take-all monopoly: enterprise heavyweights (**ServiceNow**, **Salesforce**, and **Atlassian**) command massive footprints in complex cross-departmental operations and large-scale enterprises. Meanwhile, agile mid-market challengers (**Freshworks**, **Zoho**, **Zendesk**, and **SysAid**) aggressively secure market share by delivering lower total cost of ownership, rapid time-to-value, transparent pricing tiers, and specialized administration consoles. In parallel, self-hosted and open-source control planes (**NetBox**, **Snipe-IT**, **MeshCentral**, and **GLPI**) are surging among DevOps teams, platform engineers, and security-conscious organizations seeking vendor neutrality and air-gapped governance.
+
+---
+
+## 💼 Enterprise SaaS Platforms
+
+| 🏢 Company Valuation / Revenue | 🖥️ Platform / Admin Console | 💳 Starting Pricing | 🎁 Free Tier / Trial Limits | ⚙️ Key Administrative & Centralized Control Features |
 | :--- | :--- | :--- | :--- | :--- |
 | **Salesforce**<br>~$185B Market Cap | [Salesforce Setup](https://help.salesforce.com/s/articleView?id=001787641&type=1) | $25/user/month (Starter Suite) | 30-day free trial (up to 10 users, 2,000 marketing emails, no credit card required) | Central administrative backend for org configurations, immutable Business Unit setup for Account Engagement, security profiles, permission sets, and cross-cloud governance. |
 | **ServiceNow**<br>~$110B Market Cap | [ServiceNow Admin (Clone Admin Console)](https://www.servicenow.com/community/in-other-news/clone-admin-console-and-its-features/bc-p/3484786/highlight/true#M11080) | ~$70–$100/user/month (ITSM Foundation benchmark) | Free Personal Developer Instance (PDI) for learning/testing (non-production; hibernates when inactive; corporate trials via sales-guided PoC) | Centralized instance cloning administration with Clone Profiles, exclusion/preserver rules, script execution engines, role hierarchies, and enterprise CMDB administration. |
@@ -40,47 +56,96 @@ The global IT Service Management (ITSM) and centralized IT administration consol
 | **Cherwell Software (Ivanti)**<br>~$170M Acquisition Valuation | [Cherwell CSM Administrator](https://www.cherwellsupport.com/WebHelp/en/4.60/5521.htm) | ~$105–$125/concurrent user/month (Benchmark; reaching EOL Dec 31, 2026) | No self-service free trial (legacy platform evaluated via sales migration demo / custom PoC sandbox) | Role-based desktop administrative console allowing administrators to configure database connections, security blueprints, business objects, and administrative roles. |
 | **SysAid**<br>~$30M Funding ($20M–$35M Revenue) | [SysAid Admin](https://documentation.sysaid.com/docs/getting-started-guide) | $89/agent/month (Professional plan with AI features) | 30-day free trial (full product access, guided deployment, no credit card required) | Comprehensive administrator console for customizing self-service incident forms, end-user portal design, system-level integrations, and automated ticketing rules. |
 
-## Open-Source GitHub Projects
+---
 
-- **[GLPI](https://github.com/glpi-project/glpi)**  
-  Free Asset and IT Management Software package with ITIL Service Desk, licenses tracking, and software auditing. GPL-3.0 licensed with 6,420+ stars. Covers asset management, CMDB, helpdesk, impact analysis, inventory, and ITAM/ITSM workflows in a single self-hosted platform. A mature, widely adopted open-source alternative to commercial ITSM consoles [citation:22].
+## 🚀 Open-Source GitHub Projects
 
-- **[Windshift](https://github.com/windshiftapp/core)**  
-  Self-hosted work management platform and Jira alternative (AGPL v3) with service management, SLAs, customer portal, knowledge base, test management, time tracking, and asset/CMDB register. Ships as a single Go binary with SQLite or PostgreSQL, Docker image, and desktop app. Includes JQL-style query language, custom workflows, permissions, automation, and a built-in Jira importer [citation:17][citation:23].
+Curated self-hosted administrative control planes, open-source ITSM consoles, IT asset management (ITAM) platforms, and CMDB infrastructure. Repositories are ranked by GitHub star count in descending order.
 
-- **[Trudesk](https://github.com/easypanel-io/website/blob/b87d90bf0cabee86e93c0321c7e003f2124128d5/docs/05-templates/trudesk/index.md)**  
-  Self-hosted open-source help desk and ticketing system with role-based user management, real-time notifications, reporting tools, REST API, email-to-ticket conversion, OAuth/LDAP authentication, and containerized deployment. Suitable for teams needing a centralized support administration console [citation:20].
+1. **[NetBox](https://github.com/netbox-community/netbox)** [![GitHub stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers)  
+   The premier open-source Network Infrastructure Source of Truth (NSoT) and data center infrastructure management (DCIM) console. Unifies IP address management (IPAM), rack units, cables, device inventory, virtualization, and network automation APIs into a centralized administrative plane.
 
-- **[FreeITSM](https://github.com/edmozley/freeitsm)**  
-  Completely free ITSM tool with self-service portal, task management (Kanban/list/calendar/timeline), asset register with custody tracking and QR labels, checklists/SOPs, knowledge base with AI chat, change management with CAB voting, problem management, cross-module workflow automation (138+ triggers), and CMDB with impact analysis. A comprehensive open-source ITSM administration suite .
+2. **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers)  
+   Industry-standard open-source IT asset management (ITAM) administrative console built on Laravel. Features centralized administration for hardware inventory, software licenses, component tracking, user check-in/checkout, barcodes/QR codes, SAML/LDAP authentication, and auditable asset lifecycles.
 
-- **[ClientSt0r](https://github.com/agit8or1/clientst0r)**  
-  Self-hosted IT documentation and service desk for MSPs with client assets, runbooks, encrypted credential vault, native ticketing with SLAs, contracts, quotes, and invoices. Multi-tenant with Docker or one-line install, MIT licensed, optional Azure AD/Entra ID SSO and LDAP/AD sign-in [citation:16].
+3. **[MeshCentral](https://github.com/Ylianst/MeshCentral)** [![GitHub stars](https://img.shields.io/github/stars/Ylianst/MeshCentral?style=social&color=white)](https://github.com/Ylianst/MeshCentral/stargazers)  
+   Complete web-based remote computer and device management web console. Allows system administrators to manage, monitor, and remotely access Windows, Linux, and macOS endpoints behind NATs/firewalls with hardware KVM, terminal access, file transfer, and Intel AMT out-of-band management.
 
-### Additional Strong Open-Source Options
+4. **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers)  
+   Comprehensive open-source IT asset and service management suite with ITIL Service Desk, software auditing, license management, and CMDB impact analysis. Delivers a mature, self-hosted administrative hub covering helpdesk ticketing, contracts, and financial asset management.
 
-- **[GOTRS Community Edition](https://github.com/gotrs-io/gotrs-ce/tree/dev)** — Enterprise ticketing system (Apache 2.0) with i18n/RTL support, theme engine, REST API, air-gapped deployment, and a feature comparison matrix against OTRS, Zendesk, and ServiceNow .
-- **[Atlas CMDB](https://github.com/mojoaar/atlascmdb)** — Open-source CMDB built on Next.js with entity management, rack layouts, relationship graphs, CSV import/export, OIDC SSO, SCIM 2.0, TOTP MFA, and audit trail [citation:25].
-- **Community admin scaffolds** — Libraries like fastapi-quiver provide RBAC and admin panels for custom FastAPI applications, useful for building bespoke IT admin consoles [citation:24].
+5. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+   Modern web-based open-source customer support and ticketing system with a high-performance administration backend. Provides multi-channel management (email, chat, phone, social), granular role-based permissions, automated SLA rules, audit logging, and integrations with LDAP/Exchange.
 
-**Frameworks for building custom systems**: Combine **GLPI** or **Windshift** for core ITSM administration, **FreeITSM** for service management and CMDB, and **Trudesk** for helpdesk ticketing—deployable via Docker Compose on self-managed infrastructure with SSO integration.
+6. **[Tactical RMM](https://github.com/amidaware/tacticalrmm)** [![GitHub stars](https://img.shields.io/github/stars/amidaware/tacticalrmm?style=social&color=white)](https://github.com/amidaware/tacticalrmm/stargazers)  
+   A remote monitoring and management (RMM) platform designed for MSPs and IT departments. Built with Django and Vue, it provides a centralized administration dashboard for automated script execution, patch management, real-time remote desktop, alerting, and automated client onboarding.
 
-## How to Contribute
+7. **[osTicket](https://github.com/osTicket/osTicket)** [![GitHub stars](https://img.shields.io/github/stars/osTicket/osTicket?style=social&color=white)](https://github.com/osTicket/osTicket/stargazers)  
+   Widely deployed open-source support ticket system featuring an administrative control panel for configuring routing rules, ticket assignment filters, department staff permissions, custom forms, and client self-service portals.
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+8. **[Trudesk](https://github.com/polonel/trudesk)** [![GitHub stars](https://img.shields.io/github/stars/polonel/trudesk?style=social&color=white)](https://github.com/polonel/trudesk/stargazers)  
+   Clean, modern open-source helpdesk solution built on Node.js and MongoDB. Includes a centralized administration panel for role-based access management, ticket routing workflows, live chat widgets, reports, and REST API configurations.
 
-Star the repo if you find it useful!
+9. **[ITFlow](https://github.com/itflow-org/itflow)** [![GitHub stars](https://img.shields.io/github/stars/itflow-org/itflow?style=social&color=white)](https://github.com/itflow-org/itflow/stargazers)  
+   Open-source IT documentation, ticketing, and accounting platform for MSPs and internal IT departments. Provides a unified portal for credential vaults, client asset tracking, billing, vendor agreements, and network documentation.
 
-## Disclaimer
+10. **[Windshift](https://github.com/windshiftapp/core)** [![GitHub stars](https://img.shields.io/github/stars/windshiftapp/core?style=social&color=white)](https://github.com/windshiftapp/core/stargazers)  
+    Self-hosted work management and service management platform (Go binary) featuring Jira-style issue tracking, SLAs, customer portal, knowledge base, custom workflows, permissions, and built-in CMDB asset registers.
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- IT administration consoles handle sensitive configuration and user data; enforce strong authentication (MFA), role-based access, and audit logging.
-- Self-hosted open-source administration platforms require proper backup strategies, regular security updates, and careful permission design to prevent privilege escalation.
+11. **[FreeITSM](https://github.com/edmozley/freeitsm)** [![GitHub stars](https://img.shields.io/github/stars/edmozley/freeitsm?style=social&color=white)](https://github.com/edmozley/freeitsm/stargazers)  
+    Self-hosted ITSM tool suite with customer self-service, task management, asset register with QR tags, checklists/SOPs, AI-assisted knowledge base, change management with CAB voting, and CMDB impact analysis.
+
+12. **[ClientSt0r](https://github.com/agit8or1/clientst0r)** [![GitHub stars](https://img.shields.io/github/stars/agit8or1/clientst0r?style=social&color=white)](https://github.com/agit8or1/clientst0r/stargazers)  
+    Multi-tenant IT documentation and service management console for MSPs featuring client runbooks, encrypted credential vault, native ticketing with SLAs, and Entra ID / LDAP sign-in.
+
+13. **[Atlas CMDB](https://github.com/mojoaar/atlascmdb)** [![GitHub stars](https://img.shields.io/github/stars/mojoaar/atlascmdb?style=social&color=white)](https://github.com/mojoaar/atlascmdb/stargazers)  
+    Next.js-powered open-source Configuration Management Database (CMDB) console with rack visualization, CI relationship graphs, OIDC SSO, SCIM 2.0 provisioning, TOTP MFA, and audit logging.
+
+14. **[GOTRS Community Edition](https://github.com/gotrs-io/gotrs-ce)** [![GitHub stars](https://img.shields.io/github/stars/gotrs-io/gotrs-ce?style=social&color=white)](https://github.com/gotrs-io/gotrs-ce/stargazers)  
+    Enterprise service desk and ticketing engine (Go-based OTRS reimplementation) designed for air-gapped deployments, custom role hierarchies, REST API connectivity, and high-concurrency ticket management.
 
 ---
 
-**Made for IT administrators, platform engineers, service desk managers, and organizations building unified administration infrastructure.**  
-Let's make IT administration more open, centralized, and auditable.
+## 💡 Architectural Blueprint & Best Practices
+
+When designing or deploying a centralized IT administration console:
+
+- 🔐 **Zero-Trust & SSO Integration**: Require SAML 2.0 / OIDC authentication with mandatory MFA (FIDO2/WebAuthn or TOTP) across all admin panels.
+- 👥 **Role-Based Access Control (RBAC)**: Enforce the principle of least privilege (PoLP) and segment super-admin rights from operational helpdesk staff.
+- 📜 **Immutable Audit Logging**: Ensure administrative actions—such as privilege escalation, role modification, or data export—are piped to immutable SIEM tools.
+- 🔄 **Configuration-as-Code (CaC)**: Leverage REST APIs or Terraform providers where possible to manage tenant configurations reproducibly.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! To contribute:
+
+1. 🍴 Fork this repository.
+2. 🌿 Create a feature branch: `git checkout -b feature/add-new-console`.
+3. 📝 Add your entry under the corresponding section following the standard format (include links, transparent pricing/free tiers, or repository star badges).
+4. 🚀 Submit a Pull Request with a clear description of the console and its administrative capabilities.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository saved your team time or helped in your IT infrastructure evaluations, consider supporting the project:
+
+- ⭐ **Star the repository** to boost visibility and help others discover it.
+- 🍴 **Fork and contribute** your favorite open-source consoles and tools.
+- 📢 **Share with peers** on LinkedIn, Reddit, or Twitter/X.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance and updates via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Centralized-IT-Administration-Console&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Centralized-IT-Administration-Console&type=date&legend=top-left)
+
+---
+
+## ⚖️ Disclaimer
+
+- This list is **community-curated** for educational, engineering, and informational purposes. It does not constitute an official commercial endorsement.
+- Centralized IT administration platforms hold root-level access and sensitive telemetry. Always verify network segmentation, backup strategies, and vulnerability patching schedules before deploying into production environments.
